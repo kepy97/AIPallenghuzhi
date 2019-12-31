@@ -1,7 +1,5 @@
 
-# CS 710 Artificial Intelligence
-
-## Final Project
+# Artificial Intelligence
 
 This is the pallanghuzhi game code. There are two python files game.py and board.py.
 
