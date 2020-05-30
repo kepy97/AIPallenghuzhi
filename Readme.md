@@ -22,4 +22,4 @@ python game.py
 You can see an output in the console.
 
 
-
+# Checkout project section for more details: https://kepy.online/#/
