@@ -3,9 +3,9 @@
 
 This is the pallanghuzhi game code. There are two python files game.py and board.py.
 
-board.py file contains game board, no of pits and pieces in each pit along with some of the methods.
+`board.py` file contains game board, no of pits and pieces in each pit along with some of the methods.
 
-game.py file contains all agent algorithms that is naive algorithm, greedy algorithm, min max algorithm, min max with alpha beta prunning algorithm.
+`game.py` file contains all agent algorithms that is naive algorithm, greedy algorithm, min max algorithm, min max with alpha beta prunning algorithm.
 
 
 
@@ -22,4 +22,4 @@ python game.py
 You can see an output in the console.
 
 
-#### Checkout project section for more details: https://kepy.online/#/
+#### Checkout project section for more details: https://kepy.online/
