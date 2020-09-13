@@ -27,26 +27,26 @@ You can see an output in the console.
 
 #### Naïve vs Naïve
 <p float="left">
-  <img src="/images/Naive1.png" width="200" height="400" />
-  <img src="/images/Naive2.png" width="200" height="400" /> 
+  <img src="/images/Naive1.png" width="436" height="400" />
+  <img src="/images/Naive2.png" width="436" height="400" /> 
 </p>
 
 #### Naïve vs Greedy
 <p float="left">
-  <img src="/images/NavieVSGreedy1.png" width="200" height="400" />
-  <img src="/images/NavieVSGreedy2.png" width="200" height="400" /> 
+  <img src="/images/NavieVSGreedy1.png" width="436" height="400" />
+  <img src="/images/NavieVSGreedy2.png" width="436" height="400" /> 
 </p>
 
 #### Naïve vs Min-Max with alpha-beta pruning
 <p float="left">
-  <img src="/images/naiveVsalphabeta1.png" width="200" height="400" />
-  <img src="/images/naiveVsalphabeta2.png" width="200" height="400" /> 
+  <img src="/images/naiveVsalphabeta1.png" width="436" height="400" />
+  <img src="/images/naiveVsalphabeta2.png" width="436" height="400" /> 
 </p>
 
 #### Min-Max vs Greedy
 <p float="left">
-  <img src="/images/minmaxVSGreedy1.png" width="200" height="400" />
-  <img src="/images/minmaxVSGreedy2.png" width="200" height="400" /> 
+  <img src="/images/minmaxVSGreedy1.png" width="436" height="400" />
+  <img src="/images/minmaxVSGreedy2.png" width="436" height="400" /> 
 </p>
 
 #### Checkout project section for more details: https://kepy.online/
