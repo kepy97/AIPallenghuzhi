@@ -11,9 +11,6 @@ There are two python files game.py and board.py.
 
 `game.py` file contains all agent algorithms that is naive algorithm, greedy algorithm, min max algorithm, min max with alpha beta prunning algorithm.
 
-
-
-
 ### To run the program.
 
 #### You can use python version 2.7 or 3.0 or greater. 
@@ -26,5 +23,31 @@ python game.py
 ```
 You can see an output in the console.
 
+### DEMO
+
+#### Naïve vs Naïve
+<p float="left">
+  <img src="/images/Naive1.png" width="200" height="400" />
+  <img src="/images/Naive2.png" width="200" height="400" /> 
+</p>
+
+#### Naïve vs Greedy
+<p float="left">
+  <img src="/images/NavieVSGreedy1.png" width="200" height="400" />
+  <img src="/images/NavieVSGreedy2.png" width="200" height="400" /> 
+</p>
+
+#### Naïve vs Min-Max with alpha-beta pruning
+<p float="left">
+  <img src="/images/naiveVsalphabeta1.png" width="200" height="400" />
+  <img src="/images/naiveVsalphabeta2.png" width="200" height="400" /> 
+</p>
+
+#### Min-Max vs Greedy
+<p float="left">
+  <img src="/images/minmaxVSGreedy1.png" width="200" height="400" />
+  <img src="/images/minmaxVSGreedy2.png" width="200" height="400" /> 
+</p>
 
 #### Checkout project section for more details: https://kepy.online/
+#### Checkout Demo of this project here:
