@@ -1,11 +1,16 @@
 
 # Artificial Intelligence
 
-This is the pallanghuzhi game code. There are two python files game.py and board.py.
+This is the pallanghuzhi game code. Pallanguzhi is a two player game. It is a sister game to mancala which is popular in AI since a lot of agents were created to play mancala. Pallenguzhi differs slightly in its rules when compared to mancala, regardless, it’s still a counting game. 
+
+AI Agent: This projects work with different agents playing the game “Pallanguzhi”. The agents employed the algorithms: Greedy, Min-Max, Min-Max with alpha-beta pruning, Genetic Algorithm and A3C. Each agent played against another agent to test how well the different heuristics (strategies) helped the agent win and the observations were recorded.
+
+There are two python files game.py and board.py.
 
 `board.py` file contains game board, no of pits and pieces in each pit along with some of the methods.
 
 `game.py` file contains all agent algorithms that is naive algorithm, greedy algorithm, min max algorithm, min max with alpha beta prunning algorithm.
+
 
 
 
